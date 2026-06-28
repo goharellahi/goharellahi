@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gohar.ellahi/)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsedZuJ0i5dVy7HARR5jGJA)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3)](https://x.com/goharellahii)
-[![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fgoharellahi%3Fy%3Dtotal&query=%24.total&style=for-the-badge&label=CONTRIBUTIONS&color=0d1117&labelColor=0d1117&logoColor=e6edf3&logo=github)](https://github.com/goharellahi)
+
 
 </div>
 
@@ -76,13 +76,13 @@ Currently open to **Software Engineer**, **Full-Stack Developer**, **Frontend En
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=goharellahi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=goharellahi&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a&icon_color=57606a&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bay-mu-11.vercel.app/api?username=goharellahi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&count_private=true" />
+  <img src="https://github-readme-stats-bay-mu-11.vercel.app/api?username=goharellahi&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a&icon_color=57606a&count_private=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=goharellahi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8&hide=html,css" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharellahi&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a&langs_count=8&hide=html,css" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bay-mu-11.vercel.app/api/top-langs/?username=goharellahi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8&hide=html,css" />
+  <img src="https://github-readme-stats-bay-mu-11.vercel.app/api/top-langs/?username=goharellahi&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a&langs_count=8&hide=html,css" />
 </picture>
 
 </div>
