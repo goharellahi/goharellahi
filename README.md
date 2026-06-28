@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gohar.ellahi/)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsedZuJ0i5dVy7HARR5jGJA)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3)](https://x.com/goharellahii)
-[![Profile Views](https://komarev.com/ghpvc/?username=goharellahi&color=8b949e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/goharellahi)
+[![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fgoharellahi%3Fy%3Dtotal&query=%24.total&style=for-the-badge&label=CONTRIBUTIONS&color=0d1117&labelColor=0d1117&logoColor=e6edf3&logo=github)](https://github.com/goharellahi)
 
 </div>
 
