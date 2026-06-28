@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&text=Gohar%20Ellahi&fontSize=42&fontColor=e6edf3&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%26%20Automation&descSize=14&descColor=8b949e&descAlign=50&descAlignY=58&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Gohar+Ellahi)](https://goharellahi.dev)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Software+Engineer;Applied+AI+%26+Automation;Building+Scalable+Business+Systems)](https://goharellahi.dev)
 
 </div>
 
@@ -9,6 +11,9 @@
 [![Portfolio](https://img.shields.io/badge/goharellahi.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=e6edf3)](https://goharellahi.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/goharellahi)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/goharellahi)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gohar.ellahi/)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsedZuJ0i5dVy7HARR5jGJA)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3)](https://x.com/goharellahii)
 [![Profile Views](https://komarev.com/ghpvc/?username=goharellahi&color=8b949e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/goharellahi)
 
 </div>
@@ -184,11 +189,5 @@ AI disaster recommendation engine using FAISS vector search over 50K records, ge
 *Building where engineering meets real workflows — reducing manual work, improving operational control, and turning business requirements into working software.*
 
 **[goharellahi.dev](https://goharellahi.dev)**
-
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer)
 
 </div>
