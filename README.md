@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/goharellahi.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=e6edf3)](https://goharellahi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/goharellahi)
+[![Portfolio](https://img.shields.io/badge/goharellahi.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=e6edf3)](https://goharellahi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goharellahi)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/goharellahi)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gohar.ellahi/)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsedZuJ0i5dVy7HARR5jGJA)
