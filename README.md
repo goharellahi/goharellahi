@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Gohar+Ellahi)](https://goharellahi.dev)
+# Gohar Ellahi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Software+Engineer;Applied+AI+%26+Automation;Building+Scalable+Business+Systems)](https://goharellahi.dev)
 
