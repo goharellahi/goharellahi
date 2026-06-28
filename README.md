@@ -14,6 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gohar.ellahi/)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsedZuJ0i5dVy7HARR5jGJA)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3)](https://x.com/goharellahii)
+[![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://reddit.com/u/goharellahi)
 
 
 </div>
